@@ -1,0 +1,1 @@
+["prueba2","EMB DE 26 SEM"]$["NC","IVU"]$["NC","EMB DE 17 SEM."]$["NC","PACIENTE SANA"]$["Tumor grave ","TUMOR MAMARIO"]$["Diagnóstico 1","DIAGNOSTICO1"]$
